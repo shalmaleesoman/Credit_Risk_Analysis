@@ -82,3 +82,7 @@ Deliverable 4: A Written Report on the Credit Risk Analysis (README.md)
 * Precision Low Risk: 100%
 * Recall High Risk: 92%
 * Recall Low risk: 94%
+
+## Summary
+
+All the models used to perform these analysis show weak precision in determining if a credit risk is high. The Ensemble models were more accurate on the sensitivity of high credit risks, and the last model used shows a recall of 92%--indicating almost all high credit risk. I would not recommend the usage of these models for this reason.
