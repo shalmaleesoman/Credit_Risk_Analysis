@@ -62,3 +62,23 @@ Deliverable 4: A Written Report on the Credit Risk Analysis (README.md)
 * Precision Low Risk: 100%
 * Recall High Risk: 71%
 * Recall Low risk: 58%
+
+### Random Forest Classifier
+
+![balanced random forest classifier](https://user-images.githubusercontent.com/86750935/139603888-07f3bdb1-0087-4702-83b7-69a648740bc0.PNG)
+
+* Balanced Accuracy Score: 78.875%
+* Precision High Risk: 3%
+* Precision Low Risk: 100%
+* Recall High Risk: 70%
+* Recall Low risk: 87%
+
+### Easy Ensemble AdaBoost Classifier
+
+![Easy Ensemble](https://user-images.githubusercontent.com/86750935/139603951-fc980547-0d26-4997-a7d1-62520517622f.PNG)
+
+* Balanced Accuracy Score: 93.16%
+* Precision High Risk: 9%
+* Precision Low Risk: 100%
+* Recall High Risk: 92%
+* Recall Low risk: 94%
